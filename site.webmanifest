@@ -1,0 +1,13 @@
+{
+  "name": "JuegaChile",
+  "short_name": "JuegaChile",
+  "description": "Guía de Casinityx para Chile: bono, tragamonedas, Aviator y casino en vivo.",
+  "lang": "es-CL",
+  "start_url": "https://www.juegachile.com/",
+  "display": "standalone",
+  "background_color": "#101214",
+  "theme_color": "#101214",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

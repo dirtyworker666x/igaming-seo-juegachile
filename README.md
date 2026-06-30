@@ -36,6 +36,10 @@ Informational / affiliate guide (not a casino operator). Brand: Casinityx.
 | `preguntas-frecuentes.html` | FAQ |
 | `404.html` | Custom 404 |
 
+## Live demo
+
+**https://dirtyworker666x.github.io/igaming-seo-juegachile/**
+
 ## Preview locally
 
 ```bash
